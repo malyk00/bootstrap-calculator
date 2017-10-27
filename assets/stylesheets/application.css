@@ -21,7 +21,7 @@
   line-height: 42px;
 }
 .btn {
-  width: 10%;
+  width: 13.5%;
   height: 50px;
   margin: 0 5px 5px 0;
   line-height: 50px;
@@ -30,4 +30,10 @@
 }
 .btn-danger,btn-primary{
   width:26.5% !important;
+}
+a.btn.btn-danger {
+    width: 33%;
+}
+a.btn.btn-primary {
+    width: 33.5%;
 }
